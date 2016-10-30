@@ -16,5 +16,9 @@ namespace Test2.Controllers
             return View();
         }
 
+        public void TestABC()
+        {
+            //Tesst
+        }
     }
 }
